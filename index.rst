@@ -9,6 +9,7 @@
   examplelab1/examplelab1
   examplelab2/examplelab2
   examplelab3/examplelab3
+  calm_kubernetes_blueprint/calm_kubernetes_blueprint
   
 .. toctree::
   :maxdepth: 2
