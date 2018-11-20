@@ -8,7 +8,8 @@
 
   examplelab1/examplelab1
   examplelab2/examplelab2
-
+  examplelab3/examplelab3
+  
 .. toctree::
   :maxdepth: 2
   :caption: Optional Labs
